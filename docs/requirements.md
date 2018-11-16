@@ -7,7 +7,7 @@ or hosted on your website).
 Following in the footsteps of Wikipedia, all registered users can add exhibits 
 to the gallery's collection, edit exhibits that have already been added, or 
 remove exhibits. But unlike Wikipedia, your site should have a distinctive
-focus and unique look. Choose a theme from the list below or think up something
+focus and look. Choose a theme from the list below or think up something
 of your own, then find content and define a style that match your theme.
 
 Suggested themes:
