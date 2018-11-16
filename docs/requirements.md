@@ -1,6 +1,8 @@
 # Laravel Gallery
 
-Today's project is to create a community-edited virtual art gallery.
+Today's project is to create a community-edited virtual art gallery. The exhibits
+in your gallery will be images hosted somewhere else on the internet (not uploaded
+or hosted on your website).
 
 Following in the footsteps of Wikipedia, all registered users can add exhibits 
 to the gallery's collection, edit exhibits that have already been added, or 
