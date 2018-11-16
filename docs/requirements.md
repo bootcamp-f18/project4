@@ -9,6 +9,7 @@ focus and unique look. Choose a theme from the list below or think up something
 of your own, then find content and define a style that match your theme.
 
 Suggested themes:
+```
     * Classical Art
     * Impressionist Art
     * Modern Art
@@ -18,12 +19,14 @@ Suggested themes:
     * Art Created by Artificial Intelligence
     * Kinetic Sculptures
     * Architecture
+```
 
 ## MVP
 
 Use Laravel to create your gallery website. You will need a database for this project.
 
 Each exhibit should include the following information:
+```
     * id
     * name of the exhibit
     * year it was completed (might be something like "100 BC" for ancient art)
@@ -31,6 +34,7 @@ Each exhibit should include the following information:
     * primary image URL
     * description of the exhibit
     * timestamps
+```
 
 Your project's homepage ("/", welcome.blade.php) should display a curated selection 
 of art images. How you display the images is up to you. It is suggested that you 
@@ -54,12 +58,14 @@ Heroku application and Github repo in your Class Notes page.
 ## Suggestions for additional features
 
 Once you complete the MVP, consider:
+```
     * updates to the way you display exhibits
     * enabling logged-in users to retire exhibits (remove them from display in 
         the gallery without deleting them)
     * allow multiple images for each exhibit
     * allow visitors to search for exhibits
     * allow visitors to sort exhibits
+```
 
 ## Additional advice
 
